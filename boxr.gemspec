@@ -5,7 +5,7 @@ require 'boxr/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "boxr"
-  spec.version       = Boxr::VERSION
+  spec.version       = "1.14.0"
   spec.authors       = ["Chad Burnette", "Xavier Hocquet"]
   spec.email         = ["chadburnette@me.com", "xhocquet@gmail.com"]
   spec.summary       = "A Ruby client library for the Box V2 Content API."
